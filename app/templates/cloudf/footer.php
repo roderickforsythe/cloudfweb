@@ -13,7 +13,7 @@
                     <li><a href="https://twitter.com/cloudfconsult"><i class="icon-twitter"></i></a></li>
                     <li><a href="https://plus.google.com/b/113138936931086559757/"><i class="icon-google-plus"></i></a></li>                       
                     <li><a href="https://www.youtube.com/channel/UC98a4Bb15owmby2sJdcUnJg"><i class="icon-youtube"></i></a></li>
-                    <!-- <li><a href="https://github.com/CloudFConsulting"><i class="icon-github-alt"></i></a></li> -->                 
+                    <!-- <li><a href="#"><i class="icon-github-alt"></i></a></li> -->                 
                 </ul>
             </div>
 
@@ -65,6 +65,8 @@ helpers\assets::js(helpers\url::template_path() .'js/main.js', 'cloudf');
   ga('send', 'pageview');
 
 </script>
-
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3369083.js"></script>
+<!-- End of HubSpot Embed Code -->
 </body>
 </html>
