@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!--Footer-->
 <footer id="footer">
     <div class="container">
@@ -142,5 +142,5 @@ helpers\assets::js(helpers\url::template_path() .'js/main.js', 'cloudf');
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3369083.js"></script>
 <!-- End of HubSpot Embed Code -->
 </body>
->>>>>>> 9f11282da9cfa409997fec7a398412d15b7d8167
+
 </html>

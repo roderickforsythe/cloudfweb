@@ -1,1 +1,9 @@
 app/core/config.php
+*/.DS_Store
+php_mail.log
+
+app/templates/cloudf/css/.DS_Store
+app/templates/cloudf/images/.DS_Store
+app/templates/cloudf/images/sample/.DS_Store
+app/templates/cloudf/images/sample/clients/.DS_Store
+app/templates/cloudf/js/.DS_Store
